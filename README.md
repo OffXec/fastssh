@@ -1,6 +1,3 @@
-# fastssh
-Fast SSH Scan and BruteForcer for most common credentials.
-
 # Fastssh v1.0
 ## Author: github.com/thelinuxchoice
 ## IG: instagram.com/thelinuxchoice
